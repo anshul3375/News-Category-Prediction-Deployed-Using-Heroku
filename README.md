@@ -1,5 +1,5 @@
 # News Category Prediction - Deployment
-![Python 3.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
